@@ -1,0 +1,64 @@
+/*Body*/
+
+body {
+  background-image: url("../img/recomendation.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+/* Header */
+
+.logo img {
+  width: 60%;
+}
+
+nav {
+  margin-top: 5px;
+}
+
+ul li {
+  margin-left: 10px;
+}
+
+ul li a {
+  color: white !important;
+}
+li :hover {
+  color: #e8ffb7 !important;
+}
+
+.login {
+  margin-left: 10cm;
+}
+.login:hover {
+  margin-left: 10cm;
+}
+.signin {
+  background: rgba(0, 0, 0, 0.347);
+  border-radius: 5px;
+}
+.signin:hover {
+  background: rgba(255, 255, 255, 0.347);
+  border-radius: 5px;
+}
+/* Jumbroton */
+.jumbroton {
+  background-image: url(assets/img/recomendation.jpg) !important;
+}
+
+.heroes-h1 {
+  color: aliceblue !important;
+}
+.lead {
+  color: aliceblue !important;
+}
+.card {
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
+  border: 20px;
+}
+.carousel {
+  padding: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 20px;
+  border: 20px;
+}
