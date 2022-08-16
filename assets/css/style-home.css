@@ -14,14 +14,14 @@ nav {
 }
 
 ul li {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 ul li a {
   color: white !important;
 }
-li :hover {
-  color: #e8ffb7 !important;
+li a:hover {
+  color: #8a8a8a !important;
 }
 
 .login {
@@ -31,12 +31,14 @@ li :hover {
   margin-left: 10cm;
 }
 .signin {
-  background: rgba(0, 0, 0, 0.347);
+  background: rgb(0, 0, 0);
   border-radius: 5px;
+  color: white;
 }
 .signin:hover {
-  background: rgba(255, 255, 255, 0.347);
+  background: rgb(255, 255, 255);
   border-radius: 5px;
+  color: black;
 }
 /* Jumbroton */
 .jumbroton {
